@@ -1,4 +1,4 @@
-# vuetify-app
+# african-digital-databank-vuetify-app
 
 ## Project setup
 ```
